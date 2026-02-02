@@ -1,2 +1,5 @@
 # Zava-mobile-app
-[FlowLens Demo] Zava iOS/Android mobile app — Team: Mobile, Group: ZavaRetail
+
+Zava iOS/Android mobile app
+
+Update 1 by James Chen
