@@ -2,4 +2,4 @@
 
 Zava iOS/Android mobile app
 
-Update 1 by James Chen
+Update 2 by Aisha Okafor
